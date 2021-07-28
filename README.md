@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi my name is arnold, i'm 17 years old and i'm still a beginner for the js programming languages
+Hi my name is Jedidta Adoni Saputra, i'm 18 years old and I often use js frameworks like reactjs and nextjs
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
