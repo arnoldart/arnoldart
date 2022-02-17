@@ -4,5 +4,4 @@ Hi my name is Jedidta Adoni Saputra aka Arnold, I am is really a noob programmer
 
 Programming language that I can for now
 - JavaScript/TypeScript for front end/back end
-- Golang for back end
 - Unity C#(I am beginner btw)
