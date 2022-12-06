@@ -1,7 +1,7 @@
-### Hi there 👋
+Hi my name is Jedidta Adoni Saputra aka Arnold and I have 4 years of experience as a front end developer
 
-Hi my name is Jedidta Adoni Saputra aka Arnold, I am a noob programmer for now if you have any questions about programming please don't ask me because I already told you I'm a noob 
+Programming language that I often use :
+- TypeScript / JavaScript
 
-Programming language that I can for now
-- JavaScript/TypeScript for front end/back end
-- Unity C#(I am beginner btw)
+FrameWork that I often use :
+- NextJs / ReactJs
