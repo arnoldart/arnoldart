@@ -1,6 +1,6 @@
 # Hi, I'm Jedidta Adoni Saputra (Arnold) 👋
 
-Welcome to my GitHub! I'm a front-end developer with over 5 years of experience in crafting clean and efficient user interfaces. I love turning ideas into reality through code and continuously strive to learn and improve.
+Welcome to my GitHub! I'm a front-end developer with over 6 years of experience in crafting clean and efficient user interfaces. I love turning ideas into reality through code and continuously strive to learn and improve.
 
 ## 🔧 Technologies & Tools
 
