@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a front-end developer with over 6 years of experience 
 
 ### Frameworks:
 - **Next.js / React.js**: I specialize in creating dynamic, responsive web applications using these powerful frameworks.
+- **Astro.js**: A modern static site generator that helps me build fast and lightweight web pages.
 
 ### Game Development:
 - **Unity**: My engine of choice for creating immersive gaming experiences and interactive 3D applications.
